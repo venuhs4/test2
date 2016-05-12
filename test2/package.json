@@ -1,0 +1,10 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "test2",
+  "main": "app.js",
+  "author": {
+    "name": "DCCPLBNG055",
+    "email": ""
+  }
+}
